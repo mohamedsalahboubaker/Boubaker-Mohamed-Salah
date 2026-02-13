@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Salah Boubaker and I'm a, Software Engineer Student from Tunisia</p>
+<p align="left">My name is Mohamed Salah Boubaker and I'm a, software engineering studentt from Tunisia</p>
 
 ###
 
