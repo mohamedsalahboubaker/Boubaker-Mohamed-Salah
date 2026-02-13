@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2026  <br>  <br>🎲 Fun fact: I enjoy debugging more than writing new features 😄</p>
+<p align="left">✨ Creating bugs since 2026  <br>  <br>🎲 Fun fact: I enjoy debugging more than writing new features </p>
 
 ###
 
